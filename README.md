@@ -67,6 +67,7 @@ ________________________________________
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/8d862008-dff9-454a-aa9f-cf9f81b736e5" />
 
 <img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/8a65e290-a61d-44a8-84fc-d8e790c5d869" />
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/de73aaac-cc0c-4c87-bbe1-5ddcb0b878bf" />
 
 •	Router configuration screen<br>
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/8bbd5413-65b6-41ed-af20-1421a40f330a" />
